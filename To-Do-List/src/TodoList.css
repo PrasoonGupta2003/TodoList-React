@@ -1,3 +1,7 @@
+body{
+  background: url(./ToDoListReact.jpg);
+  background-size: cover;
+}
 /* Container styling */
 .todo-container {
     max-width: 500px;
